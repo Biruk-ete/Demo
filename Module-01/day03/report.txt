@@ -1,0 +1,5 @@
+Sami,549
+Biruk,400
+Henok,300
+Kirubel,200
+Alem,150
